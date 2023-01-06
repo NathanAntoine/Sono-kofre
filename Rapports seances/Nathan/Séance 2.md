@@ -1,5 +1,5 @@
 <p> Durant cette deuxième séance, mon rôle était de faire un plan très précis de notre projet. J'ai alors réalisé le schéma suivant : </p>
-<img src="../../Photos/Plan.png" alt="Plan fait main" height="500"/>
+<img src="../../Photos/plan.png" alt="Plan fait main" height="500"/>
 <p> Par la suite j'ai installé le logiciel inkscape pour pouvoir découper au laser les planches de bois dont on aura besoin </p
 <p> Par ailleurs, premier problème, il faut comprendre comment marche le logiciel. J'ai alors regardé des vidéos pour comprendre le fonctionnement de ce dernier. Suite à cela, je me suis rendu sur le site <a href="https://fr.makercase.com">Makercase</a> qui m'a permis de réaliser une boîte avec toutes les mesures dont je souhaitais. </p>
 <p> J'ai alors copié mon plan et l'ai ouvert avec inkscape. Autre problème, les dimensions de ma boîte sont trop grosses pour la mmachine (cube de 25cm). Il m'a fallu donc diviser mon plan en trois fichiers différents pour pouvoir faire le futur découpage laser que je n'ai pas eu le temps de faire durant cette séance.</p>
