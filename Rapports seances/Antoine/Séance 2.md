@@ -12,5 +12,6 @@
 <p>Je me suis donc demandé d'où venait le problème. Je suis revenu au montage initial, et j'ai remarqué que j'avait fait une erreur de cablâge, lors de la réalisation du montage au niveau des fils du servo-moteur et de la carte UNO.</p>
 <p>Après avoir modifié cette erreur, j'ai testé le programme qui cette fois ci fonctionnaît. Cependant, un nouveau problème est apparu, une erreur au niveau des mesures puisque le piezo mesurait du son alors qu'il n'y en avait pas et commençait le programme alors qu'il ne le devait pas. Je me suis demandé d'où ce problème pourrait potentiellement provenir, et j'en suis arriver à la première conclusion : le problème provient peut-être du son émis par tous les étudiants dans la salle ou alors que le piezo est défaillant</p>
 <p> Pour finir, j'ai demandé plusieurs piezo à monsieur Masson afin de vérifier l'éventuel du composant, et je testerai la prochaine fois dans une salle silencieuse si possible.</p>
+<p>Une photo du montage dont il est question intitialement dans ce rapport, se situe dans la section photos du projet.</p>
 
 
