@@ -2,7 +2,7 @@
 
 <p>En effet, lors de la deuxième séance, il y avait un problème au niveau du piezo qui prenait des valeurs alors que l'on n'avait pas émis de son particulier.</p>
 <p>Au cours de la troisième séance j'ai remarqué que le problème ne provenait pas du piezo.</p>
-<p>Tout d'abord, j'ai demandé à monsieur Charlon de l'aide au niveau du piezo, il m'a alors passé plusieurs résistances de 750 kohm que j'ai alors par la suite branché en série afin de me rapprocher le plus possible des 10 Méga ohm initiaux de la vidéo.</p>
+<p>Tout d'abord, j'ai demandé à monsieur Charlon de l'aide au niveau du piezo, il m'a alors passé plusieurs résistances de 750 kohm que j'ai alors par la suite branché en série afin de me rapprocher le plus possible des 10 Méga ohm initiaux de la vidéo. J'ai réussi à atteindre 4 Méga ohm en branchant 4 résistances de 750 kohm et 1 résistance de 1 Méga ohm.</p>
 <p>J'ai remarqué que les valeurs mesurées variées entre 10 et 50, comme lorsque l'on n'avait uniquement la résistance de 1 kohm. Ainsi, le problème ne provenait pas non plus des résistances.</p>
 <p>J'ai alors découvert par la suite que le problème venait de l'émission de son du servo moteur. EN effet, le servo moteur émettait un grésillement qui était alors capté par le piezo, et donc faussait les résultats obtenus.</p>
 <p>Si l'on débranchait l'alimentation du servo moteur, le piezo ne captait alors plus les grésillement du servo moteur ce qui permettait d'obtenir des résultats au moment souhaité.</p>
