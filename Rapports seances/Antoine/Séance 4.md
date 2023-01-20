@@ -16,3 +16,7 @@
 <p>Petite précision sur le circuit, l'idée du programme est d'afficher l'état de la porte du coffre à l'aide de LED verte (ouvert), jaune (écoute un code) et rouge (fermé).</p>
 <p>Le piezo va capter la fréquence du son et déterminer si la fréquence est en adéquation avec le code secret (comme le précédent montage). Puis le servo-moteur va tourner ou non en fonction de la véracité du code ou non.</p>
 <p>Pour fermer la porte, il faudra pousser la porte puis appuyer sur un petit interrupteur. </p>
+
+
+https://user-images.githubusercontent.com/120471922/213739095-76b2e3f4-29c6-4013-a77a-9b61dc89f7ac.mov
+
