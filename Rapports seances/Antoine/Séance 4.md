@@ -13,6 +13,6 @@
 <p>J'ai passé le reste de mon heure à coder le code tout en décryptant toutes les méthodes, variables et ce que l'on cherchait à faire. </p>
 <p>Puis dès que le code fût terminé, je me suis mis à monter le circuit, qui est nettement plus conséquent que le précédent. </p>
 <p>Je n'ai malheureusement pas eu le temps de terminer le montage, cependant, je me suis dit que je finirai le montage et que je testerai le programme chez moi, avec des tests plus précis, pour déterminer si le programme fonctionne bien.</p>
-<p>Petite précision sur le circuit, l'idée du programme est d'afficher l'état de la porte du coffre à l'aide de LED verte (uvert), jaune (écoute un code) et rouge (fermé).</p>
+<p>Petite précision sur le circuit, l'idée du programme est d'afficher l'état de la porte du coffre à l'aide de LED verte (ouvert), jaune (écoute un code) et rouge (fermé).</p>
 <p>Le piezo va capter la fréquence du son et déterminer si la fréquence est en adéquation avec le code secret (comme le précédent montage). Puis le servo-moteur va tourner ou non en fonction de la véracité du code ou non.</p>
 <p>Pour fermer la porte, il faudra pousser la porte puis appuyer sur un petit interrupteur. </p>
