@@ -1,3 +1,5 @@
+<h1>Deuxième séance</h1>
+
 <p>Lors de la seconde séance, je savais plus exactement ce que je devais faire afin d'avancer dans le projet. </p>
 <p>Tout d'abord, j'ai remarqué que nous avions avancé plus rapidement qu'ecompté. En effet, d'après le planning établi, nous devions à peine commencer à écrire le code et capter le son émis pour la seconde séance. Or, lors de la fin de la première séance nous avions terminé la quasi-totalité du code. </p>
 <p>C'est pourquoi lors de la seconde séance, mes objectifs avaient changés pour cette séance et celles à venir.</p>
