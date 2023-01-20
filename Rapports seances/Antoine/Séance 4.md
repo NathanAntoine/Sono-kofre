@@ -1,10 +1,10 @@
 <h1>Quatrième séance</h1>
 
 <p>Lors de la quatrième séance, j'ai tout d'abord réglé le problème du bruit émis par le servo-moteur. </p>
-<p>En effet, le problème venait effectivement du servo-moteur lui-même, donc du composant. Aisni, j'ai changé de servo-moteur et les mesures étaient prises comme prévues.</p> 
+<p>En effet, le problème venait effectivement du servo-moteur lui-même, donc du composant. Ainsi, j'ai changé de servo-moteur et les mesures étaient prises comme prévues.</p> 
 
 <p>Cependant, les mêmes probèmes ont été conservés entre les mesures du piezo et le code secret. En effet, même si les mesures étaient en adéquation avec les valeurs stipulées dans le code secret, le mécanisme ne s'enclenchait pas, et dans le terminal, il y avait écrit "Secret code failed". </p>
-<p>Pour cela, j'ai tout d'abord, comme la semaine dernière, retiré deux fonctions qui me renvoyait false si le code secret n'était pas en adéquation. J'ai ensuité réalisé les mesures et le mécanisme s'est belle et bien enclenché. De plus, le servo-moteur ouvrait le coffre si il recevait 3 coups (nombre de coups du code secret), puis se refermait aussi automatiquement avant de reprendre d'autres mesures.</p> 
+<p>Pour cela, j'ai tout d'abord, comme la semaine dernière, retiré deux fonctions qui me renvoyait false si le code secret n'était pas en adéquation. J'ai ensuite réalisé les mesures et le mécanisme s'est bel et bien enclenché. De plus, le servo-moteur ouvrait le coffre s'il recevait 3 coups (nombre de coups du code secret), puis se refermait aussi automatiquement avant de reprendre d'autres mesures.</p> 
 <p>Ainsi, au lieu d'avoir comme la semaine dernière un circuit sans fin, cette fois-ci, le cycle ouvrait le mécanisme puis le refermait uniquement. </p>
 
 <p>J'ai donc en suite décidé de retrouver un autre code avec le même mécanisme pour vérifier si le problème venait des composants ou du montage, ou bel et bien du code que j'avais modifié. </p>
