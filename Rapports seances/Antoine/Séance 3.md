@@ -1,3 +1,5 @@
+<h1>Troisième séance</p>
+
 <p>Lors de la troisième séance, je n'ai pas réussi à palier les problèmes survenus lors de la deuxième séance.</p>
 
 <p>En effet, lors de la deuxième séance, il y avait un problème au niveau du piezo qui prenait des valeurs alors que l'on n'avait pas émis de son particulier.</p>
