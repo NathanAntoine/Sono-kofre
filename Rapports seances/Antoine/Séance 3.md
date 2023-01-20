@@ -1,4 +1,4 @@
-<h1>Troisième séance</p>
+<h1>Troisième séance</h1>
 
 <p>Lors de la troisième séance, je n'ai pas réussi à palier les problèmes survenus lors de la deuxième séance.</p>
 
