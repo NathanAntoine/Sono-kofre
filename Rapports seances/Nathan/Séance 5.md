@@ -1,2 +1,5 @@
 <p>Lors de cette séance,nous n'avons pas beaucoup avancé. En effet nous n'avons pas réussi à régler les problèmes liés au code (ou au branchage, nous ne savons pas encore).</p>
-<p>J'ai pour ma part essayer de réaliser une poignée pour ouvrir </p>
+<p>J'ai pour ma part essayer de réaliser une poignée pour ouvrir le coffre. Mais je me suis vite rendu compte qu'il va falloir que je refasse une découpe laser pour la réaliser.</p>
+<p>Ayant casiment fini la matérialisation du coffre, je me suis posé sur les problèmes lié au branchage du système avec mon collègue. On n'a d'ailleurs toujours pas compris exactement d'ou venaient les problèmes. On a fait des tests et avons remarqué que notre système marchait lorsque nous enlevions les leds. Notre théorie est que les leds émettent un tout petit son que capte le pidzo et qui ducoup ferme automatiquement la boucle avant que l'on tape le code sonore souhaité.</p>
+<p> Cependant, le syqtème ne marchait pas exactement comme nous le souhaitons. On pense que cela est dû à un problème au niveau du servo moteur ou du pidzo mais ainsi que du bouton que l'on utilise pour reset la boucle (un problème de branchement). Nous essaierons de les traiter au prochain cours.</p>
+
