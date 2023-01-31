@@ -7,6 +7,6 @@
 <p>J'ai donc d'abord décidé de le débrancher pour m'en assurer, et le piezo ne prenait aucune valeur jusqu'à ce que l'on émette une impulsion sur la table.</p>
 <p>Ensuite, j'ai tenté de vérifier si en rebranchant le servo-moteur, on pouvait rajouter des "delay" dans le programme lors des boucles afin de rajouter du temps entre chaque mesure, pour éviter les vibrations continues du servo-moteur.</p>
 <p>Par la suite, j'ai remarqué que les vibrations s'étaient arrêtées jusqu'à un certain moment. En effet, lorsque l'on verrouillait la porte avec le bouton poussoir, les vibrations du servo-moteur reprenaient.</p>
-<p>J'ai alors remarqué que il y avait un faux contact avec le bouton poussoir, puis j'ai essayé d'en brancher un nouveau, et le même problème est survenu.</p>
+<p>J'ai alors remarqué qu'il y avait un faux contact avec le bouton poussoir, puis j'ai essayé d'en brancher un nouveau, et le même problème est survenu.</p>
 <p>Je pense donc qu'il faudrait un nouveau bouton poussoir avec des pattes plus longues pour assurer une bonne connectivité puisque le bouton poussoir utilisé actuellement est placé sur la plaque d'expérimentation, au milieu.</p>
 <p>De plus, lorsque l'on appuyait sur le bouton poussoir, et que la connectivité ne flanchait pas, on remarquait que le servo-moteur tournait comme escompté.</p>
