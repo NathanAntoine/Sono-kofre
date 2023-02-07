@@ -1,4 +1,4 @@
-<h1>Séance 6<h1>
+<h1>Séance 6</h1>
 <p>Lors de la sixième séance, j'ai réussi à régler les problèmes au niveau du branchement et du code.</p>
 <p>Le premier problème concernait un grésillement au niveau du servo-moteur. Pour cela, je l'ai retiré de la plaque d'expérimentation et je l'ai branché directement sur la carte arduino.</p>
   <p>Ensuite, j'ai retiré les méthodes dans le setup que j'avais insérées afin de tester le fonctionnement du servo-moteur.</p>
