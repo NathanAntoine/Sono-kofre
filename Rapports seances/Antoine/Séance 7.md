@@ -7,7 +7,7 @@
 <p> Il nous reste donc à fixer le servo-moteur que l'on souhaite positionner en fonction de la longueur du fil moteur ainsi que de la position du loquet (donc ces deux éléments aussi).</p>
 <p> Dans un second temps, on a remarqué plusieurs éléments qui nuisent au bon déroulement de notre projet.</p>
 <p> Premièrement, la position de notre interrupteur. L'interrupteur nous sert à verouiller notre boîte afin de pouvoir activer la sécurité du coffre. Cependant, il est positionné vers l'intérieur du coffre, donc inaccessible.</p>
-<p>C'est pourquoi l'on souhaite étendre les pattes en les soudant afin de créer une petite ouverture et permetttre de vérouiller le système.</p>
+<p>C'est pourquoi on souhaite étendre les pattes en les soudant afin de créer une petite ouverture et permetttre de vérouiller le système.</p>
 <p> Le second point concerne le code secret du coffre. EN effet, le projet initial était de créer un code secret unique permettant l'ouverture du coffre. Cependant, pour le moment, il suffit de frapper trois fois sur la partie supérieure du coffre pour l'ouvrir.</p>
 <p> On souhaiterai donc pouvoir créer un code unique que l'on rajouterai dans le coffre si possible afin de rajouter un degré de sécurité.</p>
 <p> Enfin, on voulait rajouter un écran LCD afin d'afficher l'état du coffre. Cependant, comme on a fixé la plaque d'expérimentation vers l'intérieur, on ne peut pas avoir accès à l'écran LCD, mais on souhaiterai peut-être le rajouter en modifiant la disposition des composants du circuit.</p>
